@@ -1,0 +1,23 @@
+.heading{
+    background-color: orchid;
+    padding: 50px;
+    text-align: right;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.side{
+    width: 500px;
+    background-color: cadetblue;
+    display: inline-block;
+    height: 500px;
+    margin-top: 50px;
+}
+.right{
+    width: 1000px;
+    background-color: brown;
+    color: black;
+    margin-top: 50px;
+}
